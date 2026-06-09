@@ -71,11 +71,11 @@ export default function Pricing() {
           <div className="pc">
             <p className="pc-tier">Free</p>
             <div className="pc-price">$0</div>
-            <p className="pc-period">forever — no card required</p>
+            <p className="pc-period">one-time trial — no card required</p>
             <ul className="pc-list">
-              <li>Manuscript Studio — 5 drafts/mo</li>
-              <li>Prompt Architect — 20 prompts/mo</li>
-              <li>Creator OS — 3 video exports/mo</li>
+              <li>Manuscript Studio — 1 draft</li>
+              <li>Prompt Architect — 3 prompts</li>
+              <li>Creator OS — 1 video export</li>
               <li className="off">Voice profile training</li>
               <li className="off">Sovereign Prose Validator</li>
               <li className="off">KDP Launch Walkthrough</li>
