@@ -38,7 +38,7 @@ export default function Pricing() {
               <div className="sc-period">{stackStudioLabel}</div>
             </div>
             <a
-              href="https://creator-os.vercel.app"
+              href="https://creator-os-5zc8.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
               className="sc-cta"
@@ -76,7 +76,7 @@ export default function Pricing() {
               <li className="off">HeyGen avatar integration</li>
             </ul>
             <a
-              href="https://creator-os.vercel.app"
+              href="https://creator-os-5zc8.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-tier bt-outline"
@@ -101,7 +101,7 @@ export default function Pricing() {
               <li className="off">HeyGen avatar integration</li>
             </ul>
             <a
-              href="https://creator-os.vercel.app"
+              href="https://creator-os-5zc8.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-tier bt-solid"
@@ -125,7 +125,7 @@ export default function Pricing() {
               <li>Founder-level support channel</li>
             </ul>
             <a
-              href="https://creator-os.vercel.app"
+              href="https://creator-os-5zc8.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-tier bt-outline"

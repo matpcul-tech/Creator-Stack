@@ -24,7 +24,7 @@ export default function Tools() {
               <li>Brand voice consistency across every video</li>
             </ul>
             <a
-              href="https://creator-os.vercel.app"
+              href="https://creator-os-5zc8.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
               className="tc-link"
